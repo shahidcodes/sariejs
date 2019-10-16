@@ -7,12 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "repository": {
+    "url": "https://github.com/shahidcodes/tempest"
+  },
+  "author": "Shahid Kamal <me@shahidkamal.ml>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "glob": "^7.1.4",
     "glob-promise": "^3.4.0",
     "mongoose": "^5.7.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
