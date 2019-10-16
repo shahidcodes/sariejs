@@ -15,6 +15,9 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    "no-console": "off"
+    "no-console": "off",
+    "quotes": "off",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off"
   },
 };
