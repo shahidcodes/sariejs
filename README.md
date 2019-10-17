@@ -6,6 +6,8 @@ Tempest is an open-source Node.js rich framework for building applications and s
 - [Use this repo as base for now](https://github.com/shahidcodes/tempest-example)
 - Clone this repo
 - Install this locally with `npm` (i.e. `npm i ../tempest`)
+- Install all other npm packages
+- run with node
 
 ## Contribution
 You're free to submit PRs. There are no build/tests yet. But it is in roadmap.
