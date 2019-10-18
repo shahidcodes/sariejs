@@ -10,4 +10,4 @@ Tempest is an open-source Node.js rich framework for building applications and s
 - run with node
 
 ## Contribution
-You're free to submit PRs. There are no build/tests yet. But it is in roadmap.
+You're free to submit PRs. There are no build/tests yet. But it is in roadmap
