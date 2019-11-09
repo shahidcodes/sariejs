@@ -5,10 +5,11 @@ Sarie is an open-source Node.js framework based on expressjs for building applic
 **DISCLAIMER**:  _This version is in early stages. May contain bug. Not yet recommended to use in production_.
 
 ## Get started
-- [Use this repo as base for now](https://github.com/shahidcodes/tempest-example)
-- Clone this repo
-- Run `npm i`
-- run with node
+- `npx sariejs --create my-super-simple-app`
+- `cd my-super-simple-app && npm start`
 
 ## Contribution
-You're free to submit PRs. There are no build/tests yet. But it is in roadmap
+You're free to submit PRs.
+
+## Contact Me
+[@shahidcodes](https://twitter.com/shahidcodes)
