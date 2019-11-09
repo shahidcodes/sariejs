@@ -26,10 +26,9 @@ parser.addArgument(['-C', '--create'], {
 const args = parser.parseArgs();
 const isForced = args.force;
 const appName = (args.create || []).join(' ');
-console.log(args);
 const appDirectory = path.resolve(process.cwd(), appName);
 if (!isForced && existsSync(appDirectory)) {
-  console.error(`😫${appDirectory} already exists. Please pass --force to override.`);
+  console.error(`${appDirectory} already exists. Please pass --force to override.`);
   process.exit(-1);
 }
 const repoUrl = 'shahidcodes/sariejs-base';
