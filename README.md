@@ -9,7 +9,7 @@ Sarie is an open-source Node.js framework based on expressjs for building applic
 - `cd my-super-simple-app && npm start`
 
 ## Contribution
-You're free to submit PRs.
+Feel free to submit PRs.
 
 ## Contact Me
 [@shahidcodes](https://twitter.com/shahidcodes)
