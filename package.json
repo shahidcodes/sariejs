@@ -1,13 +1,19 @@
 {
   "name": "sariejs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sarie is fast prototype framework based on expressjs.",
   "main": "index.js",
   "scripts": {
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "framework",
+    "micro-service",
+    "services"
+  ],
   "repository": {
     "url": "https://github.com/shahidcodes/tempest"
   },
