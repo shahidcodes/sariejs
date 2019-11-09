@@ -1,6 +1,6 @@
-# Tempest
+# Sarie
 
-Tempest is an open-source Node.js rich framework for building applications and services. Motivation behind this was to create a super fast, super easy framework which restarts faster, gives flexiblity to do anything yet saves you from wiriting same boilerplate.  
+Sarie is an open-source Node.js framework based on expressjs for building applications and services. Motivation behind this was to create a super fast, super easy framework, gives flexiblity to do anything yet saves you from wiriting same boilerplate.  
 **DISCLAIMER**:  _This version is in early stages. May contain bug. Not yet recommended to use in production_.
 ## Get started
 - [Use this repo as base for now](https://github.com/shahidcodes/tempest-example)

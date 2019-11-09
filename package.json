@@ -1,7 +1,7 @@
 {
-  "name": "tempest",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sariejs",
+  "version": "0.1.0",
+  "description": "Sarie is fast prototype framework based on expressjs.",
   "main": "index.js",
   "scripts": {
     "start": "node index",
