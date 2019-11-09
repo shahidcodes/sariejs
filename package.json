@@ -7,6 +7,9 @@
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "sariejs": "./bin/cli.js"
+  },
   "keywords": [
     "expressjs",
     "nodejs",
@@ -15,12 +18,14 @@
     "services"
   ],
   "repository": {
-    "url": "https://github.com/shahidcodes/tempest"
+    "url": "https://github.com/shahidcodes/sariejs"
   },
   "author": "Shahid Kamal <me@shahidkamal.ml>",
   "license": "ISC",
   "dependencies": {
+    "argparse": "^1.0.10",
     "body-parser": "^1.19.0",
+    "download-git-repo": "^3.0.2",
     "express": "^4.17.1",
     "glob": "^7.1.4",
     "glob-promise": "^3.4.0",
