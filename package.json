@@ -1,6 +1,6 @@
 {
   "name": "sariejs",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Sarie is fast prototype framework based on expressjs.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "nodejs",
     "framework",
     "micro-service",
-    "services"
+    "services",
+    "microservice"
   ],
   "repository": {
     "url": "https://github.com/shahidcodes/sariejs"
